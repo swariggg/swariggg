@@ -7,7 +7,7 @@ I am a systems engineering student in Ecuador.
 
 
 ## 🛠 Skills
-Pyhton, Golang, Java, Javascript, HTML, CSS
+Python, Golang, Java, Javascript, HTML, CSS
 
 
 ## 🔗 Links
