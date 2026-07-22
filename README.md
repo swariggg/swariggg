@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**swariggg/swariggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://i.pinimg.com/originals/02/e4/6c/02e46c69788dc802b5907e393c5bd2d5.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi! I am Ariana
+I am a systems engineering student in Ecuador.
+
+
+## 🛠 Skills
+Pyhton, Golang, Java, Javascript, HTML, CSS
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariana-remache-7a9122337/)
+
+
