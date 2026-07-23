@@ -1,5 +1,5 @@
 
-![Logo]([https://i.pinimg.com/originals/02/e4/6c/02e46c69788dc802b5907e393c5bd2d5.gif](https://i.pinimg.com/originals/05/3c/20/053c20dbf982b7bae5fb35befc0f0ff6.gif))
+![Logo]([https://i.pinimg.com/originals/02/e4/6c/02e46c69788dc802b5907e393c5bd2d5.gif](https://i.pinimg.com/originals/05/3c/20/053c20dbf982b7bae5fb35befc0f0ff6.gif)
 
 
 ## Hi! I am Ariana
