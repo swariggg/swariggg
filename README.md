@@ -1,16 +1,25 @@
 
-![Logo](https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif)
+![Logo](https://i.pinimg.com/1200x/2a/e4/39/2ae4390785d24aad546058fb68a827d5.jpg)
 
 
-## Hi! I am Ariana
-I am a systems engineering student in Ecuador.
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⋆˚｡⋆✧˚  Welcome!  ˚✧⋆｡˚⋆
+A spce for coding proyects :)
 
 
-## 🛠 Skills
-Pyhton, Golang, Java, Javascript, HTML, CSS
+## ⋆｡‧˚ʚ  skills ɞ˚‧｡⋆
+
+⟡  Python
+
+⟡  Java
+
+⟡  JavaScript
+
+⟡  Golang
 
 
-## 🔗 Links
+
+
+## ✿ Links ✿
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariana-remache-7a9122337/)
 
