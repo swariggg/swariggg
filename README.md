@@ -1,5 +1,5 @@
 
-![Logo]([https://i.pinimg.com/originals/02/e4/6c/02e46c69788dc802b5907e393c5bd2d5.gif](https://i.pinimg.com/originals/05/3c/20/053c20dbf982b7bae5fb35befc0f0ff6.gif)
+![Logo](https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif)
 
 
 ## Hi! I am Ariana
@@ -7,7 +7,7 @@ I am a systems engineering student in Ecuador.
 
 
 ## 🛠 Skills
-Python, Golang, Java, Javascript, HTML, CSS
+Pyhton, Golang, Java, Javascript, HTML, CSS
 
 
 ## 🔗 Links
