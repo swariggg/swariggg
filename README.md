@@ -76,19 +76,6 @@
        alt="GitHub contribution streak" />
 </p>
 
----
-
-
-## ⋆｡‧˚ʚ Contribution graph ɞ˚‧｡⋆
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/swariggg/swariggg/output/github-snake.svg"
-    width="100%"
-    alt="Purple GitHub contribution snake"
-  />
-</p>
-
 <p align="center">
   <sub>૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა every contribution counts ♡</sub>
 </p>
