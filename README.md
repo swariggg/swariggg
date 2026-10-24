@@ -78,11 +78,19 @@
 
 ---
 
+
 ## ⋆｡‧˚ʚ Contribution graph ɞ˚‧｡⋆
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swariggg&bg_color=0D1117&color=C4B5FD&line=A78BFA&point=F5D0FE&area=true&hide_border=true"
-       width="100%" alt="GitHub activity graph" />
+  <img
+    src="https://raw.githubusercontent.com/swariggg/swariggg/output/github-snake.svg"
+    width="100%"
+    alt="Purple GitHub contribution snake"
+  />
+</p>
+
+<p align="center">
+  <sub>૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა every contribution counts ♡</sub>
 </p>
 
 ---
