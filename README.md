@@ -3,9 +3,9 @@
 
 <p align="center">
   <img
-    src="https://pbs.twimg.com/profile_images/1887868260869107712/q50U2XC5.png"
+    src="https://i.pinimg.com/1200x/2a/e4/39/2ae4390785d24aad546058fb68a827d5.jpg"
     width="180"
-    alt="Purple pixel art cat"
+    alt="at"
   />
 </p>
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=600&lines=meow+%3C3+welcome+to+my+profile;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+Go"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=600&lines=welcome+to+my+profile;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+Go"
     alt="Animated welcome"
   />
 </p>
@@ -40,9 +40,9 @@
 
 ```
 
-♡ I use this space to share my projects, practice programming and document my progress.
+♡ I use this space to share my projects, practice programming and document my progress. ✧ ☾
 
-✧ ☾ 
+ 
 
 ---
 
