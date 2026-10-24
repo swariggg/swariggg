@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">
-  ⋆˚｡⋆✧˚ Welcome to my little space ˚✧⋆｡˚⋆
+  ⋆˚｡⋆✧˚ Welcome to my space ˚✧⋆｡˚⋆
 </h3>
 
 <p align="center">
