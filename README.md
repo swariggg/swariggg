@@ -36,12 +36,12 @@ A space for coding projects :)
 ### ✿ GitHub Stats ✿
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariana-remache&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="Ariana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-remache&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swariggg&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="Ariana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swariggg&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariana-remache&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swariggg&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
